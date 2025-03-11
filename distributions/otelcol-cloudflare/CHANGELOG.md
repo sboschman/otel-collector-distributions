@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/sboschman/otel-collector-distributions/compare/otelcol-cloudflare-v0.1.5...otelcol-cloudflare-v0.1.6) (2025-03-11)
+
+
+### Bug Fixes
+
+* Update config.yaml ([0a15368](https://github.com/sboschman/otel-collector-distributions/commit/0a15368892a7445ef66af208e45ec7d5f1787bb9))
+
 ## [0.1.5](https://github.com/sboschman/otel-collector-distributions/compare/otelcol-cloudflare-v0.1.4...otelcol-cloudflare-v0.1.5) (2025-03-11)
 
 
