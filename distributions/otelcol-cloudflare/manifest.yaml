@@ -6,13 +6,15 @@ dist:
 extensions:
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/extension/healthcheckextension v0.120.1
 exporters:
+  - gomod: go.opentelemetry.io/collector/exporter/debugexporter v0.120.0
   - gomod: go.opentelemetry.io/collector/exporter/otlpexporter v0.120.0
 processors:
   - gomod: go.opentelemetry.io/collector/processor/batchprocessor v0.120.0
   - gomod: go.opentelemetry.io/collector/processor/memorylimiterprocessor v0.120.0
-  - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/connector/countconnector v0.120.0
 receivers:
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/receiver/cloudflarereceiver v0.120.1
+connectors:
+  - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/connector/countconnector v0.120.0
 providers:
   - gomod: go.opentelemetry.io/collector/confmap/provider/envprovider v1.27.0
   - gomod: go.opentelemetry.io/collector/confmap/provider/fileprovider v1.27.0
