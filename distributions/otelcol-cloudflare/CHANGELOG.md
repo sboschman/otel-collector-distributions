@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/sboschman/otel-collector-distributions/compare/otelcol-cloudflare-v0.2.2...otelcol-cloudflare-v0.2.3) (2025-10-01)
+
+
+### Bug Fixes
+
+* trigger release ([4b54afc](https://github.com/sboschman/otel-collector-distributions/commit/4b54afc7620a58efc04747c68738ecd308896f68))
+
 ## [0.2.2](https://github.com/sboschman/otel-collector-distributions/compare/otelcol-cloudflare-v0.2.1...otelcol-cloudflare-v0.2.2) (2025-10-01)
 
 
