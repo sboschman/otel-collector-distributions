@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.2.0](https://github.com/sboschman/otel-collector-distributions/compare/otelcol-cloudflare-v0.1.8...otelcol-cloudflare-v0.2.0) (2025-10-01)
+
+
+### Features
+
+* add Count Connector ([7de773a](https://github.com/sboschman/otel-collector-distributions/commit/7de773a2fa03bfd85e444ccfde85bb7272617c02))
+* add debug exporter ([dc582ff](https://github.com/sboschman/otel-collector-distributions/commit/dc582ff837b47ba0f55b35c74c6f02bd2b2eaba9))
+* add pprof extension ([47a616d](https://github.com/sboschman/otel-collector-distributions/commit/47a616d73e63745a14ef83bd920cd2dbec7c3b38))
+
+
+### Dependencies
+
+* **deps:** bump builder version to 0.136.0 ([f25cc03](https://github.com/sboschman/otel-collector-distributions/commit/f25cc0369d2a063f7414a9f69a0bacd0ced89507))
+* **deps:** bump components to 0.136.0 ([945a6cd](https://github.com/sboschman/otel-collector-distributions/commit/945a6cd723129b57aa3ec67f1dbf581c5d72c015))
+
+
+### Miscellaneous
+
+* update manifest.yaml ([b643dc0](https://github.com/sboschman/otel-collector-distributions/commit/b643dc0dbfaa45dbdd075b11b7d8d4f07e8e38c4))
+
 ## [0.1.8](https://github.com/sboschman/otel-collector-distributions/compare/otelcol-cloudflare-v0.1.7...otelcol-cloudflare-v0.1.8) (2025-03-11)
 
 
