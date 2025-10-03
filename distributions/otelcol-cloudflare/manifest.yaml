@@ -2,7 +2,7 @@ dist:
   name: otelcol-cloudflare
   description: OTel Collector Cloudflare Logs
   output_path: ./dist
-  version: 0.0.0-dev # x-release-please-version
+  version: 0.2.0 # x-release-please-version
 extensions:
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/extension/healthcheckextension v0.136.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/extension/pprofextension v0.136.0
