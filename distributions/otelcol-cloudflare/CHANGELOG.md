@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.11](https://github.com/sboschman/otel-collector-distributions/compare/otelcol-cloudflare-v0.2.10...otelcol-cloudflare-v0.2.11) (2025-10-03)
+
+
+### Bug Fixes
+
+* set correct dist name ([0932a81](https://github.com/sboschman/otel-collector-distributions/commit/0932a81b5500c117831c21f33c7e91fc4e57c5f1))
+
 ## [0.2.10](https://github.com/sboschman/otel-collector-distributions/compare/otelcol-cloudflare-v0.2.9...otelcol-cloudflare-v0.2.10) (2025-10-02)
 
 
