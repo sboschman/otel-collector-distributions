@@ -1,0 +1,10 @@
+{
+  extends: [
+    'local>topicusonderwijs/renovate-config:default.json5',
+  ],
+  semanticCommits: "enabled",
+  ocb: {
+    fileMatch: ["manifest.ya?ml$"]
+  },
+  enabledManagers: ["github-actions", "dockerfile", "gomod", "ocb"]
+}
